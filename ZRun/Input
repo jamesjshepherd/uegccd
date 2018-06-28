@@ -1,0 +1,24 @@
+# Electrons:      14
+# rS Points:      1
+Momentum Cutoff:  5 
+rSMin:            1.0
+rSMax:            1.0
+Do Rings:         T
+Do XRings:        T
+Do Ladders:       T
+Do Mosaics:       T
+Rings Range:      0
+XRings Range:     0
+Ladders Range:    0
+Mosaics Range:    0
+DriverDir Range:  0
+DriverEx Range:   0
+Energy Range:     0
+LinRings Range:   0
+QuadRings Range:  0
+DRings Range:     0
+ExRings Range:    0
+LinLadd Range:    0
+QuadLadd Range:   0
+DLadders Range:   0
+ExLadders Range:  0
