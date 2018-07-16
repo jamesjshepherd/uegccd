@@ -11,6 +11,10 @@ Please cite:
 2. ZCode inside directory ZRun will execute with a file labelled Input in the same directory.
 3. Output will be produced including MP2 and CCD calculations
 
+On a different system, you need to modify the make script to include
+a reference to Lapack. This code will compile with Lapack, but by
+default it's just set up to compile on a mac.
+
 # input syntax
 
 ## self-explanatory UEG parameters:
