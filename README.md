@@ -1,6 +1,11 @@
 # uegCCD
 Code for calculations on the uniform electron gas
 
+# licence
+MIT License
+Copyright (c) 2018 Tom Henderson, James J. Shepherd, Gustavo Scuseria
+For more details, see the LICENCE file
+
 # references
 Please cite:
 (1) J. Chem. Phys. 140, 124102 (2014) 10.1063/1.4867783
