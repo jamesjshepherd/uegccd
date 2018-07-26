@@ -83,6 +83,7 @@
 !  Initialize the name list, and the Input checking arrays.  !
 !============================================================!
 
+      ExStatus = 0
       SetOnce  = .False.
       SetTwice = .False.
       ParamName = (/'# Electrons        ',    &
@@ -315,7 +316,6 @@
 !==================================================!
 
       If(Len_Trim(Keyword) == 0 .or. Len_Trim(Value) == 0) Keyword = "SKIP"
-
       Return
       End Subroutine ParseLine
 
